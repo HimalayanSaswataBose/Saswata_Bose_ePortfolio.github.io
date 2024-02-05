@@ -152,7 +152,7 @@ section{
 }
 .socials{
     position: absolute;
-    bottom: 4rem;
+    bottom: 5px;
     width: 325px;
     display: flex;
     justify-content: space-between;
