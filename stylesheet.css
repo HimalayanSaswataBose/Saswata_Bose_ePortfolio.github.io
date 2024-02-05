@@ -152,7 +152,7 @@ section{
 }
 .socials{
     position: absolute;
-    bottom: 5px;
+    bottom: 4rem;
     width: 325px;
     display: flex;
     justify-content: space-between;
@@ -662,6 +662,9 @@ p + ul{
     .img{
         scale: 60%;
     }
+    .socials{
+        bottom: 0px;
+    }
 }
 @media (max-width: 767px){
     .header {
@@ -723,6 +726,9 @@ p + ul{
     }
     .img{
         display: None;
+    }
+    .socials{
+        bottom: 0px;
     }
 }
 @keyframes aboutSpinner{
