@@ -645,6 +645,9 @@ p + ul{
     html{
         font-size: 55%;
     }
+    .img{
+        scale: 60%;
+    }
 }
 @media (max-width: 991px){
     .header {
