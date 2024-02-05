@@ -718,6 +718,9 @@ p + ul{
         transform: translateX(0);
         transition-delay: 0.25s;
     }
+    .img{
+        display: None;
+    }
 }
 @keyframes aboutSpinner{
     100%{
